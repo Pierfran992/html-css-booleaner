@@ -1,0 +1,50 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+/* title website structure */
+header {
+    background-color: rgb(12, 106, 194);
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    width: 1000px;
+    height: 100px;
+}
+
+#logo{
+    width: 15%;
+    height: 80%;
+    margin-top: 30px;
+}
+
+/* main structure */
+
+/* title article structure */
+#title-article{
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.note{
+    color: grey;
+    font-size: 13px;
+}
+
+#editors {
+    color: rgb(8, 149, 243);
+}
+
+#date-article {
+    font-size: 10px;
+    margin-top: 0;
+}
+
+/* image Tim Berners-Lee section structure */
+.tim-image {
+    margin-top: 20px;
+}
+
+.photo-note {
+    font-size: 11px;
+}
