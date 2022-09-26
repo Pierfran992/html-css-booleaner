@@ -70,3 +70,20 @@ thead {
 .description {
     width: 60%;
 }
+
+/* footer structure */
+
+.extra-content {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+div.extra-content > span{
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
