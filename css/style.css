@@ -51,6 +51,22 @@ header {
 }
 
 /* text of article structure */
-.content {
-    margin-left: 0;
+
+.pippo {
+    padding-left: 19px;
+}
+
+/* table structure */
+thead {
+    color: white;
+    background-color: rgb(8, 110, 243);
+    text-align: left;
+}
+
+.row {
+    background-color: rgb(111, 171, 240);
+}
+
+.description {
+    width: 60%;
 }
