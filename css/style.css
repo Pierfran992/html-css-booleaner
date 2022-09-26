@@ -57,6 +57,11 @@ header {
 }
 
 /* table structure */
+
+table {
+    border-collapse: collapse;
+}
+
 thead {
     color: white;
     background-color: rgb(8, 110, 243);
